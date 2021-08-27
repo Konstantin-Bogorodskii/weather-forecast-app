@@ -52,4 +52,6 @@ function displayData(data) {
       </div>
     `;
   }
+
+  formInput.value = '';
 }
